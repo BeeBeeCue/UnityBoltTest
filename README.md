@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/BeeBeeQue/UnityBoltTest">
+  <a href="https://github.com/BeeBeeCue/UnityBoltTest">
     <img src="Assets/GitHubStuff/Images/UnityBolt.png" alt="Logo" width="120" height="67.5">
   </a>
 
@@ -31,14 +31,14 @@
   <p align="center">
     Testing out the visual scripting in Unity using Bolt
     <br />
-    <a href="https://github.com/BeeBeeQue/UnityBoltTest"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BeeBeeCue/UnityBoltTest"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BeeBeeQue/UnityBoltTest">View Demo</a>
+    <a href="https://github.com/BeeBeeCue/UnityBoltTest">View Demo</a>
     ·
-    <a href="https://github.com/BeeBeeQue/UnityBoltTest/issues">Report Bug</a>
+    <a href="https://github.com/BeeBeeCue/UnityBoltTest/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BeeBeeQue/UnityBoltTest/issues">Request Feature</a>
+    <a href="https://github.com/BeeBeeCue/UnityBoltTest/issues">Request Feature</a>
   </p>
 </p>
 
@@ -101,7 +101,7 @@ To get a local copy up and running follow these simple steps.
 
 Kristófer Kntusen - kristoferknutsen@hotmail.com - kristoferknutsen.com
 
-Project Link: [https://github.com/BeeBeeQue/UnityBoltTest](https://github.com/BeeBeeQue/UnityBoltTest)
+Project Link: [https://github.com/BeeBeeCue/UnityBoltTest](https://github.com/BeeBeeCue/UnityBoltTest)
 
 
 
@@ -118,15 +118,15 @@ Project Link: [https://github.com/BeeBeeQue/UnityBoltTest](https://github.com/Be
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/BeeBeeQue/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/BeeBeeQue/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BeeBeeQue/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/BeeBeeQue/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/BeeBeeQue/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/BeeBeeQue/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BeeBeeQue/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/BeeBeeQue/repo/issues
-[license-shield]: https://img.shields.io/github/license/BeeBeeQue/repo.svg?style=for-the-badge
-[license-url]: https://github.com/BeeBeeQue/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/BeeBeeCue/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/BeeBeeCue/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BeeBeeCue/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/BeeBeeCue/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/BeeBeeCue/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/BeeBeeCue/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BeeBeeCue/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/BeeBeeCue/repo/issues
+[license-shield]: https://img.shields.io/github/license/BeeBeeCue/repo.svg?style=for-the-badge
+[license-url]: https://github.com/BeeBeeCue/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/k-knutsen/
