@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: CameraController
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"CameraController","summary":"Controls
+      The Camera","pan":{"x":-763.0,"y":-933.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":43.0,"y":-530.0},"guid":"85ac4b35-0fae-437f-a57c-7e12d8d79af9","$version":"A","$type":"Bolt.SuperUnit","$id":"9"},{"coroutine":false,"defaultValues":{},"position":{"x":-1141.0,"y":-1015.0},"guid":"4da091a2-d994-4f77-b1be-e0a049156428","$version":"A","$type":"Bolt.LateUpdate","$id":"12"},{"member":{"name":"main","parameterTypes":null,"targetType":"UnityEngine.Camera","targetTypeName":"UnityEngine.Camera","$version":"A"},"defaultValues":{},"position":{"x":-1196.0,"y":-521.0},"guid":"0edc92d9-f8a5-4d67-9e17-84bed16bb2bb","$version":"A","$type":"Bolt.GetMember","$id":"14"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"followTarget","$type":"System.String"},"object":null},"position":{"x":-1214.0,"y":-306.0},"guid":"62c2b939-ef94-4d19-8322-7cc1e94321dd","$version":"A","$type":"Bolt.GetVariable","$id":"17"},{"defaultValues":{},"position":{"x":-603.0,"y":-736.0},"guid":"d855542d-00d1-4a40-92e9-43292b14369a","$version":"A","$type":"Bolt.NullCheck","$id":"19"},{"defaultValues":{},"position":{"x":-822.0,"y":-736.0},"guid":"6a0d5eaf-ae3d-49fb-b452-99107dd4ba87","$version":"A","$type":"Bolt.NullCheck","$id":"21"},{"nest":{"source":"Macro","macro":1,"embed":null},"defaultValues":{"RotateSpeed":{"$content":1.0,"$type":"System.Single"},"InvertCameraPan":{"$content":false,"$type":"System.Boolean"},"InvertCameraTilt":{"$content":true,"$type":"System.Boolean"}},"position":{"x":-844.0,"y":-1014.0},"guid":"bdce4d31-3a67-43c0-be8b-493ee7f43ac0","$version":"A","$type":"Bolt.SuperUnit","$id":"23"},{"sourceUnit":{"$ref":"19"},"sourceKey":"ifNotNull","destinationUnit":{"$ref":"9"},"destinationKey":"Enter","guid":"1ca34cc9-fa49-41d5-8b48-3734e261c089","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"ifNotNull","destinationUnit":{"$ref":"19"},"destinationKey":"enter","guid":"203c4176-359e-41b2-a9c4-b6ffad3edb42","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"trigger","destinationUnit":{"$ref":"23"},"destinationKey":"Enter","guid":"4c187162-731f-4192-8190-9ba8de1397ca","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"Target","guid":"d1bf074d-b603-49f2-b9aa-9f03ccaf3cd9","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"value","destinationUnit":{"$ref":"19"},"destinationKey":"input","guid":"49869b8e-05eb-4ba3-8f8f-4c58c9b4ff43","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"value","destinationUnit":{"$ref":"21"},"destinationKey":"input","guid":"054c0cd3-bd7c-4fb5-bbdb-f4119ca202f4","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"Camera","guid":"6308b383-41b8-47ce-b26c-c5987d75af9b","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"value","destinationUnit":{"$ref":"23"},"destinationKey":"Camera","guid":"0c08720f-b26d-457a-8422-23e10e9a26bb","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: bc13011a0e38f0440b0744941e96124b, type: 2}
+    - {fileID: 11400000, guid: 79671637ef36a134c9dcc3aad43cd908, type: 2}
