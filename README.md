@@ -23,7 +23,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/BeeBeeQue/UnityBoltTest">
-    <img src="Assets/GitHubStuff/Images/UnityBolt.png" alt="Logo" width="80" height="80">
+    <img src="Assets/GitHubStuff/Images/UnityBolt.png" alt="Logo" width="120" height="67.5">
   </a>
 
   <h3 align="center">Unity Visual Scripting Test</h3>
