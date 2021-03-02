@@ -50,21 +50,6 @@
 </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      
-    <li><a href="#contact">Contact</a></li>
-   
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -72,6 +57,8 @@ Unity visual scripting test using Bolt.
 This was made during a Udemy course.
 The course is "Bolt Visual Scripting in Unity" by Wilmer Lin.
 I highly recommend the course to anyone interested.
+
+Above you can see a GIF of the project working. The visual graph is implementing the shooting logic.
 
 
 <!-- CONTACT -->
