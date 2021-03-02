@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/BeeBeeCue/UnityBoltTest">
-    <img src="Assets/GitHubStuff/Images/BoltProejct.gif" alt="Gameplay" width="50%">
+    <img src="Assets/GitHubStuff/Images/BoltProejct.gif" alt="Gameplay" width="100%">
   </a>
 
 
