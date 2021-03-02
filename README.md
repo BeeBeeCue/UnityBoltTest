@@ -64,7 +64,7 @@ Above you can see a GIF of the project working. The visual graph is implementing
 <!-- CONTACT -->
 ## Contact
 
-Kristófer Kntusen - kristoferknutsen@hotmail.com - kristoferknutsen.com
+Kristófer Kntusen - kristoferknutsen@hotmail.com - www.kristoferknutsen.com
 
 Project Link: [https://github.com/BeeBeeCue/UnityBoltTest](https://github.com/BeeBeeCue/UnityBoltTest)
 
