@@ -27,8 +27,10 @@
   </a>
 
   <h3 align="center">Unity Visual Scripting Test</h3>
-<a href="https://github.com/BeeBeeCue/UnityBoltTest">
-    <img src="Assets/GitHubStuff/Images/BoltProject.gif" alt="Logo" width="120" height="67.5">
+
+<p align="center">
+  <a href="https://github.com/BeeBeeCue/UnityBoltTest">
+    <img src="Assets/GitHubStuff/Images/UnityBolt.png" alt="Logo" width="120" height="67.5">
   </a>
 
 
@@ -43,6 +45,7 @@
     <a href="https://github.com/BeeBeeCue/UnityBoltTest/issues">UnityBoltTestrt Bug</a>
     ·
     <a href="https://github.com/BeeBeeCue/UnityBoltTest/issues">Request Feature</a>
+    </p>
   </p>
 </p>
 
