@@ -27,6 +27,10 @@
   </a>
 
   <h3 align="center">Unity Visual Scripting Test</h3>
+<a href="https://github.com/BeeBeeCue/UnityBoltTest">
+    <img src="Assets/GitHubStuff/Images/BoltProject.gif" alt="Logo" width="120" height="67.5">
+  </a>
+
 
   <p align="center">
     Testing out the visual scripting in Unity using Bolt
@@ -80,9 +84,7 @@
 
 
 ### Built With
-<p>
-<img src="Assets/GitHubStuff/Images/BoltProject.gif" alt="Logo" width="1920" height="808">
-</p>
+
 * []()
 * []()
 * []()
