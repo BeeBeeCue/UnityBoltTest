@@ -57,23 +57,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+      
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+   
   </ol>
 </details>
 
@@ -82,25 +68,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
+Unity visual scripting test using Bolt.
+This was made during a Udemy course.
+The course is "Bolt Visual Scripting in Unity" by Wilmer Lin.
+I highly recommend the course to anyone interested.
 
 
 <!-- CONTACT -->
@@ -109,17 +80,6 @@ To get a local copy up and running follow these simple steps.
 Kristófer Kntusen - kristoferknutsen@hotmail.com - kristoferknutsen.com
 
 Project Link: [https://github.com/BeeBeeCue/UnityBoltTest](https://github.com/BeeBeeCue/UnityBoltTest)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
 
 
 
